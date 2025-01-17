@@ -15,6 +15,9 @@ The study uses the following stock data:
 2. **Descriptive Statistics**: The mean, variance, and covariance of the stock returns are calculated.
 3. **Portfolio Optimization**: The efficient frontier is computed to determine the best possible portfolio allocation based on return and risk trade-offs.
 
+## Calculation
+The calculation can be seen from this [link](https://docs.google.com/spreadsheets/d/1sSlGOZrDXVR72JeUIiGvRZ5T7LgLb6q_/edit?usp=sharing&ouid=115310081003810230654&rtpof=true&sd=true) 
+
 ## Results  
 - **Most efficient portfolio with the highest return**: Invest entirely in **BBNI** (Portfolio 1).
 - **Most efficient portfolio with the lowest risk**: A **60:40 investment split** between **BBRI** and **BBNI** (Portfolio 7).
